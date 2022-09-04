@@ -2,6 +2,10 @@
 
 I'm DevOps
 
+### Terraform
+
+* [สร้าง Dev Machine ใน DigitalOcean](https://medium.com/@amaudy/1372a89e94f5)
+
 ### Ansible Related
 
 [Ansible Galaxy](https://galaxy.ansible.com/amaudy)
