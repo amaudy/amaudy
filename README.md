@@ -13,3 +13,4 @@ I work as DevOps role for living.
 * [ansibledocker](https://galaxy.ansible.com/amaudy/ansibledocker) - Install Docker on remote server
 * [ansiblenginx](https://galaxy.ansible.com/amaudy/ansible_nginx) - Install Nginx on remote server
 * [ansiblepostgresql](https://galaxy.ansible.com/amaudy/ansible_postgresql) - Install Postgresql on remote server
+* [ansible_k3s_single](https://galaxy.ansible.com/amaudy/ansible_k3s_single) - Install K3S Single Node
