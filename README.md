@@ -7,6 +7,10 @@ I work as DevOps role for living.
 * [สร้าง Dev Machine ใน DigitalOcean](https://medium.com/@amaudy/1372a89e94f5)
 * [Simple cluster at Scaleway](https://github.com/amaudy/simple-k8s-cluster-scaleway)
 
+### Public speaking
+
+* [GitOps the single source of truth](https://www.youtube.com/watch?v=wxHcV1qhiiU)
+
 ### Ansible Related
 
 [Ansible Galaxy](https://galaxy.ansible.com/amaudy)
