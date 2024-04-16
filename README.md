@@ -8,6 +8,7 @@ I work a DevOps role for a living.
 * [Simple cluster at Scaleway](https://github.com/amaudy/simple-k8s-cluster-scaleway)
 * [Simple cluster for test/dev (DigitalOcean)](https://github.com/amaudy/do-k8s-sandbox)
 * [Remote devbox at DigitalOcean](https://github.com/amaudy/do-devbox)
+* [Simple ECS Cluster (Fargate)](https://github.com/amaudy/simple-ecs-fargate)
 
 ### Public speaking
 
