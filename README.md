@@ -10,6 +10,7 @@ I work a DevOps role for a living.
 * [Remote devbox at DigitalOcean](https://github.com/amaudy/do-devbox)
 * [Simple ECS Cluster (Fargate)](https://github.com/amaudy/simple-ecs-fargate)
 * [Simple ECS Cluster (EC2)](https://github.com/amaudy/simple-ecs-ec2)
+* [Setup Gitlab Server in AWS by Terraform](https://github.com/amaudy/gitlab-aws)
 
 ### Public speaking
 
