@@ -11,6 +11,7 @@ I work a DevOps role for a living.
 * [Simple ECS Cluster (Fargate)](https://github.com/amaudy/simple-ecs-fargate)
 * [Simple ECS Cluster (EC2)](https://github.com/amaudy/simple-ecs-ec2)
 * [Setup Gitlab Server in AWS by Terraform](https://github.com/amaudy/gitlab-aws)
+* [Setup Gitlab Private Runner](https://github.com/amaudy/gitlab-runner-ec2)
 
 ### Public speaking
 
