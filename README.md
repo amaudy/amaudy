@@ -16,6 +16,8 @@ I work a DevOps role for a living.
 ### Utilities
 
 * [AWS Cost Alerting](https://github.com/amaudy/aws-cost-alert)
+* [DigitalOcean Cost Alerting](https://github.com/amaudy/do-cost-alert)
+
 ### Public speaking
 
 * [GitOps the single source of truth](https://www.youtube.com/watch?v=wxHcV1qhiiU)
