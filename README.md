@@ -13,6 +13,9 @@ I work a DevOps role for a living.
 * [Setup Gitlab Server in AWS by Terraform](https://github.com/amaudy/gitlab-aws)
 * [Setup Gitlab Private Runner](https://github.com/amaudy/gitlab-runner-ec2)
 
+### Utilities
+
+* [AWS Cost Alerting](https://github.com/amaudy/aws-cost-alert)
 ### Public speaking
 
 * [GitOps the single source of truth](https://www.youtube.com/watch?v=wxHcV1qhiiU)
