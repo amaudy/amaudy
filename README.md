@@ -35,3 +35,4 @@ I work a DevOps role for a living.
 ### Kubernetes
 
 * [Postgresql for dev/testing](https://github.com/amaudy/k8s-postgresql)
+* [Certification Exam Prep](https://github.com/amaudy/k8s-certexam-prep)
