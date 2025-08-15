@@ -23,6 +23,9 @@ I work a DevOps role for a living.
 
 * [GitOps the single source of truth](https://www.youtube.com/watch?v=wxHcV1qhiiU)
 
+### Coaching
+* [Prometheus](https://github.com/amaudy/teaching-prometheus)
+
 ### Ansible Related
 
 [Ansible Galaxy](https://galaxy.ansible.com/amaudy)
