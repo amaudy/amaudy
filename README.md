@@ -13,6 +13,7 @@ I work a DevOps role for a living.
 * [Terraform module - AWS ECS (EC2)](https://github.com/amaudy/tfecsec2)
 * [Setup Gitlab Server in AWS by Terraform](https://github.com/amaudy/gitlab-aws)
 * [Setup Gitlab Private Runner](https://github.com/amaudy/gitlab-runner-ec2)
+* [Azure AKS Cluster](https://github.com/amaudy/tf-azure-aks)
 
 ### Utilities
 
